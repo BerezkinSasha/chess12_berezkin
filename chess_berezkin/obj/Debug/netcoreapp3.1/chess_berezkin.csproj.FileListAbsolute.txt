@@ -1,0 +1,17 @@
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\bin\Debug\netcoreapp3.1\chess_berezkin.exe
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\bin\Debug\netcoreapp3.1\chess_berezkin.deps.json
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\bin\Debug\netcoreapp3.1\chess_berezkin.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\bin\Debug\netcoreapp3.1\chess_berezkin.runtimeconfig.dev.json
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\bin\Debug\netcoreapp3.1\chess_berezkin.dll
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\bin\Debug\netcoreapp3.1\chess_berezkin.pdb
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\obj\Debug\netcoreapp3.1\chess_berezkin.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\obj\Debug\netcoreapp3.1\chess_berezkin.Form1.resources
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\obj\Debug\netcoreapp3.1\chess_berezkin.Resource1.resources
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\obj\Debug\netcoreapp3.1\chess_berezkin.csproj.GenerateResource.cache
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\obj\Debug\netcoreapp3.1\chess_berezkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\obj\Debug\netcoreapp3.1\chess_berezkin.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\obj\Debug\netcoreapp3.1\chess_berezkin.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\obj\Debug\netcoreapp3.1\chess_berezkin.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\obj\Debug\netcoreapp3.1\chess_berezkin.dll
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\obj\Debug\netcoreapp3.1\chess_berezkin.pdb
+C:\Users\Aleksandr\source\repos\chess_berezkin\chess_berezkin\obj\Debug\netcoreapp3.1\chess_berezkin.genruntimeconfig.cache
